@@ -1,2 +1,0 @@
-# Agile Software Project
-
